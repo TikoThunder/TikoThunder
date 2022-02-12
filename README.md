@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TikoThunder
 - 👀 I’m interested in Learning Coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Html JavaScript and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me TikoThunder#1138
 
